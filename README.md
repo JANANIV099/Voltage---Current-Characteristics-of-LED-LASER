@@ -54,30 +54,19 @@ Key points:
 
 
 <img width="1200" height="1600" alt="LED" src="https://github.com/user-attachments/assets/63eb3148-1b18-48c6-9fc4-655e38172f32" />
+<img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ---
 
-## TABULATION LED Characteristics (850 nm)
+## TABULATION LED Characteristics 
+<img width="869" height="957" alt="WhatsApp Image 2026-05-26 at 17 43 51" src="https://github.com/user-attachments/assets/31f64e11-e1dc-47e2-95b8-82fa961d65aa" />
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
 
-<img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
-## TABULATION LASER Characteristics (1310 nm)
-
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
 ---
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+<img width="1251" height="1599" alt="image" src="https://github.com/user-attachments/assets/00a9ea07-8fcb-480b-8048-7d426bdc28bc" />
 
 ---
 
